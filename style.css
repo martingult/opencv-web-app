@@ -1,1 +1,15 @@
+.canvas-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 400px;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+canvas {
+    max-width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
 
